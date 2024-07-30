@@ -1,0 +1,17 @@
+.header{
+
+    margin: 10px auto;
+    width: 30%;
+    height: 70px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(184, 189, 189);
+    border: 2px solid #000;
+    cursor: pointer;
+   
+
+    
+    
+}
